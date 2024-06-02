@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+- ## About Me 
+- Passionate Data Analyst skilled in Power BI, Excel, SQL, Python, and statistical analysis. Proficient in data science & machine learning. Leveraging insights to drive impactful 
+  decisions. Dedicated to continuous learning and growth. Let's harness data to unlock opportunities together!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saranga-nalaka-89b833257/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/saranga2526) 
