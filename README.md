@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+
 - ## About Me 
 - Passionate Data Analyst skilled in Power BI, Excel, SQL, Python, and statistical analysis. Proficient in data science & machine learning. Leveraging insights to drive impactful 
   decisions. Dedicated to continuous learning and growth. Let's harness data to unlock opportunities together!
+
 
 
 ## 🌐 Socials:
