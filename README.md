@@ -1,5 +1,5 @@
 
-[![MasterHead](https://dribbble.com/shots/9022929-Data-science/attachments/1145015?mode=media)]
+[![MasterHead](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)]
 ## Hi there 👋
 
 Here are some ideas to get you started:
