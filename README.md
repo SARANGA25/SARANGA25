@@ -4,11 +4,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analyst Project 
 - 🌱 I’m currently learning Data Science in Coursera 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: saranganalaka@gmail.com
+- 👯 I’m looking forward to learning ML engineering.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 📫 How to reach me: saranganalaka@gmail.com
+- 📫 Please Reach Out : www.linkedin.com/in/saranga-nalaka/
+
 
 
 - ## About Me 
