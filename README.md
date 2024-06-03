@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science in Coursera 
 - 👯 I’m looking forward to learning ML engineering.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: saranganalaka@gmail.com
-- 📫 Please Reach Out : www.linkedin.com/in/saranga-nalaka/
+- 📫 Please reach me gmail.com : saranganalaka@gmail.com
+- 📫 Please reach me linkedin  : www.linkedin.com/in/saranga-nalaka/
 
 
 
