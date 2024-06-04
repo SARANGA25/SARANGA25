@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.istockphoto.com/id/1284636483/vector/business-analysis-tiny-characters-at-huge-monitor-with-charts-managers-analyze-information.webp?s=612x612&w=is&k=20&c=zKYnB2--mRWr0KJwdNyaZn44nDu4c3AwiUR6D7x10Mg=)
+![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 ## Hi there 👋
 
 Here are some ideas to get you started:
