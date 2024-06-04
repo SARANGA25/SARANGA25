@@ -1,5 +1,5 @@
 
-![MasterHead](https://deeptechbytes.com/wp-content/uploads/2021/05/data-analytics.jpg)
+![MasterHead](https://www.hays.com.my/documents/6074458/6076906/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/a11a2554-7ce8-7054-20a3-8320881b80c8?t=1618902868781)
 ## Hi there 👋
 
 Here are some ideas to get you started:
