@@ -1,5 +1,5 @@
 
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01-1536x420.png)
 ## Hi there 👋
 
 Here are some ideas to get you started:
