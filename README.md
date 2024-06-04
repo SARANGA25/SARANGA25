@@ -1,5 +1,5 @@
 
-[![MasterHead](https://img.freepik.com/free-vector/gradient-data-analysis-facebook-cover-template_23-2150629527.jpg?t=st=1717480837~exp=1717484437~hmac=c7f4595ec1c0537da00ee9503e8efe85f8e9a3be4dd65ab592f540be385f6579&w=826)]
+![MasterHead](https://media.istockphoto.com/id/1284636483/vector/business-analysis-tiny-characters-at-huge-monitor-with-charts-managers-analyze-information.webp?s=612x612&w=is&k=20&c=zKYnB2--mRWr0KJwdNyaZn44nDu4c3AwiUR6D7x10Mg=)
 ## Hi there 👋
 
 Here are some ideas to get you started:
