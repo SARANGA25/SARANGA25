@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.hays.com.my/documents/6074458/6076906/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/a11a2554-7ce8-7054-20a3-8320881b80c8?t=1618902868781)
+![MasterHead](https://indbytes.com/inb/slid1.png)
 ## Hi there 👋
 
 Here are some ideas to get you started:
