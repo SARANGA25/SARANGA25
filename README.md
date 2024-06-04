@@ -1,5 +1,5 @@
 
-![MasterHead](https://indbytes.com/inb/slid1.png)
+![MasterHead](https://appsmaventech.com/images/blog/technology.jpg)
 ## Hi there 👋
 
 Here are some ideas to get you started:
