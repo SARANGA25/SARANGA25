@@ -1,5 +1,5 @@
 
-![MasterHead](https://senseaboutscience.org/wp-content/uploads/2023/01/Banner-Wide-02-01-1536x420.png)
+![MasterHead](https://deeptechbytes.com/wp-content/uploads/2021/05/data-analytics.jpg)
 ## Hi there 👋
 
 Here are some ideas to get you started:
