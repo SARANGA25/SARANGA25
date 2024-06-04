@@ -1,7 +1,7 @@
 
 ![MasterHead](https://appsmaventech.com/images/blog/technology.jpg)
-- ## Hi there 👋
-- ## I'm Saranga
+- ## Hi there 👋  I'm Saranga
+
 
 Here are some ideas to get you started:
 
