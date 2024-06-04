@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)]
+[![MasterHead](https://img.freepik.com/free-vector/gradient-data-analysis-facebook-cover-template_23-2150629527.jpg?t=st=1717480837~exp=1717484437~hmac=c7f4595ec1c0537da00ee9503e8efe85f8e9a3be4dd65ab592f540be385f6579&w=826)]
 ## Hi there 👋
 
 Here are some ideas to get you started:
